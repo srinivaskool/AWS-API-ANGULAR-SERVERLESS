@@ -50,7 +50,7 @@ You need an AWS account. Then clone the repository and create Lambda and S3 buck
   <img  src="README_IMAGES\Working.PNG" >  
 </p>
 
-#### [Back To The Top](#Compare Yourself)
+[Back To The Top](#Compare-Yourself)
 
 ---
 
@@ -132,7 +132,7 @@ AWS-API-ANGULAR-SERVERLESS
 - LinkedIn - [Srinivas K](https://www.linkedin.com/in/srinivas-konduri/)
 - Github - [Srinivas K](https://github.com/srinivaskool)
 
-#### [Back To The Top](#Compare Yourself)
+[Back To The Top](#Compare-Yourself)
 
 
 
