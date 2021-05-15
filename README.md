@@ -47,7 +47,7 @@ You need an AWS account. Then clone the repository and create Lambda and S3 buck
 ## Working Image
 <br >
 <p align="center">
-  <img  src="README_IMAGES\Working.png" >  
+  <img  src="README_IMAGES\Working.PNG" >  
 </p>
 
 #### [Back To The Top](#Compare Yourself)
