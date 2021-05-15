@@ -67,12 +67,9 @@ AWS-API-ANGULAR-SERVERLESS
 ├─ protractor.conf.js
 ├─ README.md
 ├─ README_IMAGES
-│  ├─ 2.PNG
-│  ├─ 3.PNG
-│  ├─ 4.PNG
-│  ├─ 5.PNG
-│  ├─ 7.PNG
-│  └─ Capture.PNG
+│  ├─ Process.png
+│  ├─ Structure.PNG
+│  └─ Working.PNG
 ├─ src
 │  ├─ app
 │  │  ├─ app-routing.module.ts
@@ -106,6 +103,11 @@ AWS-API-ANGULAR-SERVERLESS
 │  │     │  ├─ signup.component.html
 │  │     │  └─ signup.component.ts
 │  │     └─ user.model.ts
+│  ├─ assets
+│  │  └─ .gitkeep
+│  ├─ environments
+│  │  ├─ environment.prod.ts
+│  │  └─ environment.ts
 │  ├─ favicon.ico
 │  ├─ index.html
 │  ├─ main.ts
@@ -133,6 +135,7 @@ AWS-API-ANGULAR-SERVERLESS
 - Github - [Srinivas K](https://github.com/srinivaskool)
 
 [Back To The Top](#Compare-Yourself)
+
 
 
 
